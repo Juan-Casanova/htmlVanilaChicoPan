@@ -1,0 +1,13 @@
+body {
+    font-family: 'Permanent Marker', cursive;
+}
+@media screen and (min-width: 1200px) {
+    #containerIconNav {
+        display: flex;
+        align-items: center;
+    }
+    #textIconNav {
+        padding-top: 5%;
+        padding-left: 8%;
+    }
+}
