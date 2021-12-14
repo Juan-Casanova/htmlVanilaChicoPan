@@ -10,4 +10,92 @@ body {
         padding-top: 5%;
         padding-left: 8%;
     }
+    #sobreNosotros {
+        padding-top: 50px;
+        background-image: url(https://res.cloudinary.com/pelos-locos/image/upload/v1639445688/MantenimientoQro/Plano.jpg);
+    }
+
+    #contenedorSobrenosotros {
+        width: 80%;
+        margin-left: 10%;
+        display: flex;
+    }
+
+    #arqui {
+        margin-left: 25%;
+        margin-bottom: 10%;
+    }
+
+    #textNosotros {
+        font-size: 21px;
+    }
+
+    #containerPlano {
+        background-image: url(https://res.cloudinary.com/pelos-locos/image/upload/v1639445688/MantenimientoQro/Plano.jpg);
+        height: auto;
+    }
+
+    #contenedordivs {
+        width: 80%;
+        margin-left: 10%;
+    }
+
+    .servicios {
+        margin-top: 5%;
+        margin-bottom: 5%;
+    }
+
+    .servicios img {
+        width: 100%;
+    }
+}
+
+.imgCarrusel {
+    height: 625px;
+}
+.imgCarrusel img {
+    width: 100%;
+    height: 650px;
+}
+
+#containerImgSeperator {
+    background-image: url(https://res.cloudinary.com/pelos-locos/image/upload/v1639431062/MantenimientoQro/pngtree-gradient-simple-gray-background-image_557013.jpg);
+    height: 80px;
+}
+
+#titleServices {
+    font-size: 40px;
+    text-align: center;
+    padding: 10px;
+}
+
+.div1-2 {
+    width: 50%;
+}
+
+#contenedorIcons {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-bottom: 50px;
+}
+
+
+
+#iconFace{
+    width: 75px;
+    height: 75px;
+}
+
+#iconWhats {
+    width: 250px;
+    height: 100px;
+}
+
+#linkMaps {
+    color: black;
+}
+
+footer{
+    margin-top: 20px;
 }
