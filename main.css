@@ -1,7 +1,7 @@
 body {
     font-family: 'Permanent Marker', cursive;
 }
-@media screen and (min-width: 1200px) {
+@media screen and (min-width: 800px) {
     #containerIconNav {
         display: flex;
         align-items: center;
@@ -98,4 +98,34 @@ body {
 
 footer{
     margin-top: 20px;
+}
+
+@media screen and (max-width: 799px) {
+    #carouselExampleIndicators {
+        height: 300px;
+    }
+
+    .carousel-inner {
+        height: 300px;
+    }
+
+    .imgCarrusel img{
+        height: 300px;
+    }
+
+    .imgServicios {
+        width: 100%;
+    }
+
+    #arqui {
+        width: 100%;
+    }
+
+    .div1-2 {
+        width: 100%;
+    }
+}
+
+.container-fluid {
+    width: auto;
 }
