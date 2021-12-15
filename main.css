@@ -124,6 +124,11 @@ footer{
     .div1-2 {
         width: 100%;
     }
+
+    #linkMaps {
+        width: 80%;
+        margin-left: 20%;
+    }
 }
 
 .container-fluid {
